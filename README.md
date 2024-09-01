@@ -1,4 +1,4 @@
-# 💸 Simple Transactions with Session
+# 💸 Simple Transactions API with Session
 I developed this project during my latest studies on Node lessons at [Rocketseat](https://www.rocketseat.com.br).
 
 ## ⚙️ Installation
